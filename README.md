@@ -8,5 +8,5 @@
    
    gcc -o simulador simulador.c memoria.c processador.c programa.c exibicao.c
    
-   Executar: simulador.exe
+   Para executar: simulador.exe
 
