@@ -1,5 +1,5 @@
-# Implementação o do simulador
-Simulador
+# Implementação do simulador
+
    Para compilar (Windows): 
    Colocar todos os arquivos na mesma pasta e  digitar no prompt de comando:
    cd "Diretório da pasta" (sem as aspas)
